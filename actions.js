@@ -31,7 +31,7 @@ function printBiography (person, bands) {
 }
 
 
-/*document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
 
 // const button = document.querySelector('button')
 
@@ -46,4 +46,3 @@ function printBiography (person, bands) {
   // Execute your functions here
   // ex: printBiography(person, bands)
 })
-*/
